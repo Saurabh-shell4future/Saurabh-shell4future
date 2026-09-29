@@ -592,5 +592,3 @@ SZVEX is the broader platform through which I intend to explore the convergence 
 ---
 
 > **Understand the system. Build the intelligence. Validate the result. Improve continuously.**
-
-### Building toward intelligent, scalable and research-driven energy systems.
